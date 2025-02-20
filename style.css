@@ -30,8 +30,10 @@ nav a {
   width:800px;
 }
 
-div {
+#details div{
   float: left;
+}
+div {
   background-color: rgb(255, 7, 7);
   text-align: center;
   width: 25%;
